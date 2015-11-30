@@ -14,4 +14,4 @@ Type /law or /laws to your chat
 If you are mayor, then you will seen a few buttons in the bottom of frame
 
 # Screenshot(s)
-![Interface screen](https://i.imgur.com/C3uoIn8.png)
+![Interface screen](https://i.imgur.com/4yDfMIB.png)
